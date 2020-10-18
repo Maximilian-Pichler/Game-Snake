@@ -14,3 +14,7 @@ Documentation: https://docs.python.org/3/howto/curses.html
 - go to the repository folder
 - execute the game.py
 - have fun
+
+__Future Improvements:__
+- create proper package
+- make it executable
